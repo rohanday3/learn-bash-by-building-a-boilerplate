@@ -254,3 +254,5 @@ rm -r fonts
 rm --help
 rm -r fonts
 ls --color=auto
+touch packagejson
+touch package.json
