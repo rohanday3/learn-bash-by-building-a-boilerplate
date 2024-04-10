@@ -113,3 +113,4 @@ touch header.ong
 touch header.png
 touch foorter.jpeg
 touch footer.jpeg
+ls --color=auto
