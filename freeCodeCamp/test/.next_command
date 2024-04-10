@@ -122,3 +122,4 @@ touch CodeAlly.svg
 touch CodeRoad.svg
 touch freeCodeCamp.svg
 __vsc_prompt_cmd_original
+ls --color=auto
