@@ -104,3 +104,5 @@ rm -rf .gitignore/
 touch .gitignore
 __vsc_prompt_cmd_original
 ls --color=auto
+ls --color=auto -la
+ls --color=auto --help
