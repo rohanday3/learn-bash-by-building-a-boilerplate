@@ -57,3 +57,5 @@ clear
 ls --color=auto
 cd src
 ls --color=auto
+__vsc_prompt_cmd_original
+pwd
