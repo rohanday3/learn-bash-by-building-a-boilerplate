@@ -163,3 +163,6 @@ ls --color=auto
 mv lato.ttf fonts
 mv menlo.otf fonts
 mv roboto.woff fonts
+ls --color=auto
+ls --color=auto
+find
