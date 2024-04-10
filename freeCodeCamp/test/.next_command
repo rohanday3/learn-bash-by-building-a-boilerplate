@@ -201,3 +201,5 @@ ls --color=auto
 mv header ../
 mv header.png ../
 ls --color=auto
+ls --color=auto
+cd ..
