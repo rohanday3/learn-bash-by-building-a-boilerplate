@@ -167,3 +167,4 @@ ls --color=auto
 ls --color=auto
 find
 mv fonts/lato.ttf fonts/lato.ttf
+mv fonts/menlo.otf fonts
