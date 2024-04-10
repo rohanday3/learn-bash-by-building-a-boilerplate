@@ -222,3 +222,11 @@ rm images/background.jpg
 rmdir images
 rmdir images
 ls --color=auto
+cd assets
+cd src/asse
+cd client/assets/
+mkdir icons
+rmdir icons
+cd ..
+cd ..
+mkdir client/assets/icons
