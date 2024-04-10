@@ -206,3 +206,5 @@ cd ..
 __vsc_prompt_cmd_original
 ls --color=auto
 find -name images
+mv header client/assets/images/
+mv header.png client/assets/images/
