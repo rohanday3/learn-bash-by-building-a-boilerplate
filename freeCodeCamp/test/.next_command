@@ -230,3 +230,4 @@ rmdir icons
 cd ..
 cd ..
 mkdir client/assets/icons
+mv CodeAlly.svg client/assets/icons/
