@@ -184,3 +184,4 @@ mv styles.css client/src
 find
 __vsc_prompt_cmd_original
 find client
+find --help
