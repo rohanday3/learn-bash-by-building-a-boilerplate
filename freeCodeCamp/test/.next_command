@@ -275,3 +275,6 @@ more READMME.md
 more README.md
 cd ..
 ls --color=auto
+rm -f website website-boilerplate
+mv -f website website-boilerplate
+mv website website-boilerplate
