@@ -177,3 +177,4 @@ mkdir client src
 rm -rf client/src
 mkdir client/src
 mv index.html client/src
+find
