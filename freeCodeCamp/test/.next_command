@@ -248,3 +248,7 @@ touch client/assets/fonts/lato-bold.tff
 touch client/assets/fonts/lato-bold.ttf
 touch client/assets/fonts/lato-light.ttf
 find
+ls --color=auto
+rm -rf fonts
+rm -r fonts
+rm --help
