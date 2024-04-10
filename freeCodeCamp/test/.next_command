@@ -102,3 +102,5 @@ mkdir .gitignore
 rm .gitignore/
 rm -rf .gitignore/
 touch .gitignore
+__vsc_prompt_cmd_original
+ls --color=auto
