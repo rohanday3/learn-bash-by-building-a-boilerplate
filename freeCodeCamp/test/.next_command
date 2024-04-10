@@ -66,3 +66,10 @@ more index.js
 __vsc_prompt_cmd_original
 cd ..
 cd ..
+cc
+cd ../.
+ls --color=auto
+cd node_modules/
+ls --color=auto
+cd project
+cd ../..
