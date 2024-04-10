@@ -78,3 +78,17 @@ ls --color=auto
 clear
 mkdir website
 ls --color=auto
+cd
+cd project
+ls --color=auto
+../..
+cd ..
+ls --color=auto
+cd
+pwd
+ls --color=auto ../..
+cd ../../workspace/
+ls --color=auto
+cd project/
+ls --color=auto
+cd website
