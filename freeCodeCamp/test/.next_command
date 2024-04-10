@@ -267,3 +267,4 @@ echo I made this boilerplate >> README.txt
 echo I made this boilerplate >> README.md
 more README.
 more README.md
+echo from the command line >> README.md
